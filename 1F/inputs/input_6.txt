@@ -1,1 +1,0 @@
-https://bioinformaticsalgorithms.com/data/extradatasets/replication/minimum_skew.txt
