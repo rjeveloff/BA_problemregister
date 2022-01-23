@@ -1,0 +1,7 @@
+AA: AC AG AT
+AC: CA
+AT: TA
+AG: GT
+CA: AA
+GT: TA
+TA: AA AT
